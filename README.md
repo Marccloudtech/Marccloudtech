@@ -58,7 +58,8 @@ I'm ready to bring value from day one — while continuing to grow into a high-p
 **Open to:** full-time remote opportunities, onboarding-driven roles, or structured entry-level training paths.
 
 Let’s connect!
-📬 [GitHub](https://github.com/Marccloudtech) | [LinkedIn](https://www.linkedin.com/in/marcmaisonneuve) | 📩 marc.m.saas@gmail.com
+📬 [GitHub](https://github.com/Marccloudtech) | [LinkedIn](https://www.linkedin.com/in/marc-maisonneuve-6345b6373/) | 📩 marc.m.saas@gmail.com
+
 
 
 ---
@@ -124,4 +125,5 @@ Je suis prêt à apporter de la valeur dès le premier jour — tout en continua
 
 Entrons en contact !
 
-📬 [GitHub](https://github.com/Marccloudtech) | [LinkedIn](https://linkedin.com/in/marccloudtech) | 📩 marc.m.saas@gmail.com
+📬 [GitHub](https://github.com/Marccloudtech) | [LinkedIn](https://www.linkedin.com/in/marc-maisonneuve-6345b6373/) | 📩 marc.m.saas@gmail.com
+
