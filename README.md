@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Marc – Bilingual Instructional Designer & Content Creator (SaaS Training Systems)
 
+Disponible en : [English](README.md) | [Français](README.fr.md)
+
 <!-- ===== TOP BADGES (CLEAN HEADER) ===== -->
 ![Instructional Design](https://img.shields.io/badge/Instructional%20Design-Blue?style=for-the-badge&logo=bookstack)
 ![Reset Key → Version Control Framework](https://img.shields.io/badge/Reset%20Key-Version%20Control%20Framework-Orange?style=for-the-badge&logo=git)
