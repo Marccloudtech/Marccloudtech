@@ -48,7 +48,3 @@ Join a team in **Instructional Design or SaaS Learning & Support** to build syst
 
 ---
 
-## 🇫🇷 Version courte (FR)
-Je conçois des **systèmes de formation pour le support SaaS**.  
-En ce moment : cours « **SaaS Support Mastery** », **Companion Bible** (cadres, QA, contrôle du drift) et **simulations** (notes internes, réponses bilingues, workflows).  
-Objectif : rôle en **conception pédagogique / SaaS Learning**, pour créer des contenus scalables et clairs.
