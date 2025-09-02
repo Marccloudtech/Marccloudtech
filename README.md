@@ -69,9 +69,8 @@ Join a team in **Instructional Design** or **SaaS Learning & Support** to build 
 ![Growth Mindset](https://img.shields.io/badge/Growth%20Mindset-Orange?style=for-the-badge&logo=treehouse)
 ![Clarity & Structure](https://img.shields.io/badge/Clarity%20%26%20Structure-Silver?style=for-the-badge&logo=markdown)
 
-## 🔒 Private Bible Mirror
-
-For drift control and instructional QA, a private **Instructional Design Bible** is maintained.  
+🔒 Private Bible Mirror
+For drift control and instructional QA, a private Instructional Design Bible is maintained.  
 It mirrors every sealed doc and module with:
 
 - Doc/Module Entries (sealed copies + rationale)  
@@ -79,7 +78,8 @@ It mirrors every sealed doc and module with:
 - Macro Ledger (macro compliance bank)  
 - Weekly Logs (progress, risks, next seals)  
 
-👉 This ensures consistency, audit discipline, and a clear chain of decisions.
+👉 This ensures consistency, audit discipline, and a clear chain of decisions.  
 
 *(Note: The Bible is private and not part of this public repo. Only the sealed learner-facing content lives here.)*
+
 
