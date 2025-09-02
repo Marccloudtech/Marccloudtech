@@ -25,7 +25,10 @@ I also bring live support experience at **Virgin Mobile (2015)**, where I was pr
 - Building a multi-module **SaaS Support Mastery course**  
 - Writing an **Instructional Design Companion Bible** *(Reset Key → Version Control Framework, Audit Checklist → Instructional QA Checklist, Macro Ledger → Knowledge Management Index)*  
 - Publishing **SaaS simulations** (internal notes, bilingual replies, workflows)  
-- Designing **Ctrl+F systems** *(Rapid Reference Systems in ID terms)*, decision trees, and macro banks *(Macro Ledger → Knowledge Management Index)*  
+- Designing **Ctrl+F systems** *(Rapid Reference Systems in ID terms)*, decision trees, and macro banks *(Macro Ledger → Knowledge Management Index)*
+
+ 🔒 All sealed docs and modules are mirrored in a private **Instructional Design Bible** for drift control and QA discipline.
+
 
 ---
 
@@ -65,3 +68,18 @@ Join a team in **Instructional Design** or **SaaS Learning & Support** to build 
 ![Calm Under Pressure](https://img.shields.io/badge/Calm%20Under%20Pressure-Lightblue?style=for-the-badge&logo=chakraui)
 ![Growth Mindset](https://img.shields.io/badge/Growth%20Mindset-Orange?style=for-the-badge&logo=treehouse)
 ![Clarity & Structure](https://img.shields.io/badge/Clarity%20%26%20Structure-Silver?style=for-the-badge&logo=markdown)
+
+## 🔒 Private Bible Mirror
+
+For drift control and instructional QA, a private **Instructional Design Bible** is maintained.  
+It mirrors every sealed doc and module with:
+
+- Doc/Module Entries (sealed copies + rationale)  
+- Ctrl+F Index (searchable reference)  
+- Macro Ledger (macro compliance bank)  
+- Weekly Logs (progress, risks, next seals)  
+
+👉 This ensures consistency, audit discipline, and a clear chain of decisions.
+
+*(Note: The Bible is private and not part of this public repo. Only the sealed learner-facing content lives here.)*
+
