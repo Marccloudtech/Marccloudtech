@@ -28,6 +28,9 @@ J’apporte également une expérience concrète en support client chez **Virgin
 - Publication de **simulations SaaS** (notes internes, réponses bilingues, workflows) sur GitHub  
 - Conception de **systèmes Ctrl+F** *(référence rapide en termes ID)*, arbres de décision et **banques de macros** *(Macro Ledger → index de connaissances)*
 
+🔒 Tous les documents et modules validés sont également archivés dans une **Instructional Design Bible** privée, assurant le contrôle des dérives et la discipline QA.
+
+
 ---
 
 ### 🔧 Aperçu des compétences
@@ -64,3 +67,17 @@ Intégrer une équipe en **conception pédagogique** ou en **SaaS Learning & Sup
 ![Esprit de croissance](https://img.shields.io/badge/Esprit%20de%20croissance-FFA500?style=for-the-badge&logo=treehouse)
 ![Clart%C3%A9%20%26%20structure](https://img.shields.io/badge/Clart%C3%A9%20%26%20structure-C0C0C0?style=for-the-badge&logo=markdown)
 ![Design anti--drift](https://img.shields.io/badge/Design%20anti--drift-006400?style=for-the-badge&logo=files)
+
+
+🔒 Miroir Bible Privée
+Pour le contrôle des dérives et l’assurance qualité, une Instructional Design Bible privée est maintenue.  
+Elle archive chaque document et module validé avec :
+
+- Entrées Doc/Module (copies scellées + raisonnement)  
+- Index Ctrl+F (référence consultable)  
+- Registre Macro (banque de macros et conformité)  
+- Journaux hebdomadaires (avancement, risques, prochains jalons)  
+
+👉 Cela garantit cohérence, discipline QA et traçabilité claire des décisions.  
+
+*(Remarque : La Bible est privée et ne fait pas partie de ce dépôt public. Seul le contenu validé pour les apprenants figure ici.)*
